@@ -22,6 +22,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Utility libraries
 
+https://github.com/testing-library/react-hooks-testing-library
+
 https://github.com/testing-library/user-event (Fire events the same way the user does)
 
 https://github.com/mswjs/msw (Mock Service Worker (`MSW`) is an API mocking library for browser and Node.)
